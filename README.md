@@ -11,6 +11,7 @@ The dashboard combines multiple datasets including CO₂ emissions, temperature 
 
 ![Dashboard Preview](Co2_emission.png)
 ![Dashboard Preview](climate_indicators.png)
+
 ---
 ## Dashboard Features
 
