@@ -9,8 +9,8 @@ The dashboard combines multiple datasets including CO₂ emissions, temperature 
 ---
 ## Dashboard Preview
 
-![Dashboard Preview]("C:\Users\LENOVO\Pictures\Screenshots\Co2 emission.png")
-![Dashboard Preview]("C:\Users\LENOVO\Pictures\Screenshots\climate indiacators.png")
+![Dashboard Preview](Co2_emission.png)
+![Dashboard Preview](climate_indicators.png)
 ---
 ## Dashboard Features
 
